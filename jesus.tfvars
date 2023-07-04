@@ -1,0 +1,8 @@
+region = "us-east-1"
+profile = "default"
+ami = "ami-04823729c75214919"
+instance_type = "t2.micro"
+tag_name = "nioline"
+public_ip = "aws_instance.webview.public_ip"
+arn = "aws_instance.webview.arn"
+instance_state = "aws_instance.webview.instance_state"
